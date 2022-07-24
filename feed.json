@@ -15,13 +15,14 @@
             "url": "https://renovalgarve.github.io/test.html",
             "title": "Test",
             "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://renovalgarve.github.io/media/posts/1/nolan-issac-K5sjajgbTFw-unsplash.jpg",
             "author": {
                 "name": "Rui Rigueiro"
             },
             "tags": [
             ],
             "date_published": "2022-07-24T13:41:24+01:00",
-            "date_modified": "2022-07-24T13:41:24+01:00"
+            "date_modified": "2022-07-24T14:39:32+01:00"
         }
     ]
 }
