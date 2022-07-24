@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "RenovAlgarve",
     "description": "",
-    "home_page_url": "https://github.com/RenovAlgarve/renovalgarve.github.io",
-    "feed_url": "https://github.com/RenovAlgarve/renovalgarve.github.io/feed.json",
+    "home_page_url": "https://renovalgarve.github.io",
+    "feed_url": "https://renovalgarve.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://github.com/RenovAlgarve/renovalgarve.github.io/media/website/RenovAlgarve.svg",
+    "icon": "https://renovalgarve.github.io/media/website/RenovAlgarve.svg",
     "author": {
         "name": "Rui Rigueiro"
     },
     "items": [
         {
-            "id": "https://github.com/RenovAlgarve/renovalgarve.github.io/test.html",
-            "url": "https://github.com/RenovAlgarve/renovalgarve.github.io/test.html",
+            "id": "https://renovalgarve.github.io/test.html",
+            "url": "https://renovalgarve.github.io/test.html",
             "title": "Test",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {

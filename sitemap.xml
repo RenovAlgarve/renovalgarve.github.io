@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/RenovAlgarve/renovalgarve.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://renovalgarve.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/RenovAlgarve/renovalgarve.github.io/</loc>
+<loc>https://renovalgarve.github.io/</loc>
 </url>
 <url>
-<loc>https://github.com/RenovAlgarve/renovalgarve.github.io/test.html</loc>
+<loc>https://renovalgarve.github.io/test.html</loc>
 <lastmod>2022-07-24T13:41:24+01:00</lastmod>
 </url>
 </urlset>
