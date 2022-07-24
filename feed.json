@@ -5,14 +5,13 @@
     "home_page_url": "https://renovalgarve.github.io",
     "feed_url": "https://renovalgarve.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://renovalgarve.github.io/media/website/Renovalgarve.png",
     "author": {
         "name": "Rui Rigueiro"
     },
     "items": [
         {
-            "id": "https://renovalgarve.github.io/test.html",
-            "url": "https://renovalgarve.github.io/test.html",
+            "id": "https://renovalgarve.github.io/test/",
+            "url": "https://renovalgarve.github.io/test/",
             "title": "Test",
             "content_html": "\n  <p>\n    \n  </p>",
             "image": "https://renovalgarve.github.io/media/posts/1/nolan-issac-K5sjajgbTFw-unsplash.jpg",
